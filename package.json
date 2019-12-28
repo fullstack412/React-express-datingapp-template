@@ -36,7 +36,7 @@
     "element-react": "^1.4.3",
     "element-theme-default": "^1.4.11",
     "emoji-mart": "^2.4.2",
-    "eslint": "^4.11.0",
+    "eslint": "^4.18.2",
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
     "faker": "^4.1.0",
